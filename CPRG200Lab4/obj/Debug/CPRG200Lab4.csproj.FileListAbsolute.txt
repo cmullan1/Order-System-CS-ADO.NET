@@ -1,0 +1,12 @@
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\bin\Debug\northwnd.mdf
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\bin\Debug\CPRG200Lab4.exe.config
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\bin\Debug\CPRG200Lab4.exe
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\bin\Debug\CPRG200Lab4.pdb
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.frmOrders.resources
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.Properties.Resources.resources
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.csproj.GenerateResource.cache
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.csproj.CoreCompileInputs.cache
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.exe
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.pdb
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\obj\Debug\CPRG200Lab4.csprojResolveAssemblyReference.cache
+C:\Users\71374\source\repos\CPRG200Lab4\CPRG200Lab4\bin\Debug\northwnd_log.ldf
